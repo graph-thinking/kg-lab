@@ -3,6 +3,10 @@
 Description: we test different technologies to see if they fit in the KG. 
 For example dwave - katanagraph.com
 
+add also a search engine - with a crawler - https://www.opensemanticsearch.org
+* https://medium.com/analytics-vidhya/building-a-basic-search-engine-using-elasticsearch-fscrawler-97104c1ea220
+* https://github.com/dadoonet/fscrawler
+
 - [Play](#play)
   - [Choose your environment](#choose-your-environment)
   - [Run](#run)
