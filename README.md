@@ -4,7 +4,7 @@ Description: we test different technologies to see if they fit in the KG. [pytho
 For example performances comparison - [dwave-quantum-networkx](https://docs.ocean.dwavesys.com/projects/dwave-networkx/en/latest/) or - [katanagraph](https://katanagraph.com/)
 
 To compare unstructured and structured relevance performances 
-add also a search engine - with a crawler - https://www.opensemanticsearch.org
+add also compare lucene apache (search engine) - with a crawler - https://www.opensemanticsearch.org
 * https://medium.com/analytics-vidhya/building-a-basic-search-engine-using-elasticsearch-fscrawler-97104c1ea220
 * https://github.com/dadoonet/fscrawler
 * compared to KG - with python flask MW 
