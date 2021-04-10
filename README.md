@@ -1,6 +1,7 @@
 # Knowledge Graph Lab <!-- omit in toc -->
 
-TODO: Add description
+Description: we test different technologies to see if they fit in the KG. 
+For example dwave - katanagraph.com
 
 - [Play](#play)
   - [Choose your environment](#choose-your-environment)
