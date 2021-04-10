@@ -1,7 +1,7 @@
 # Knowledge Graph Lab <!-- omit in toc -->
 
-Description: we test different technologies to see if they fit in the KG. 
-For example dwave - katanagraph.com
+Description: we test different technologies to see if they fit in the KG. [python for KG](https://derwen.ai/docs/kgl/)
+For example [dwave-quantum-networkx](https://docs.ocean.dwavesys.com/projects/dwave-networkx/en/latest/) or - [katanagraph](https://katanagraph.com/)
 
 add also a search engine - with a crawler - https://www.opensemanticsearch.org
 * https://medium.com/analytics-vidhya/building-a-basic-search-engine-using-elasticsearch-fscrawler-97104c1ea220
